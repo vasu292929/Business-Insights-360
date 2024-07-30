@@ -52,6 +52,8 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 ![Snowfall data modeling method](https://github.com/vasu292929/Business-Insights-360/blob/main/Snowfall%20data%20modeling%20method%201.png?raw=true)
 
+![Snowfall data modeling method](https://github.com/vasu292929/Business-Insights-360/blob/main/Snowfall%20data%20modeling%20method%202.png?raw=true)
+
 
 
 
