@@ -67,6 +67,37 @@ In Home view, all the views button will be available. User will land on specific
 - Products
 - Support
 
+![Home View](https://github.com/vasu292929/Business-Insights-360/blob/main/Home.png?raw=true)
+
+## Info Page
+
+![Info Page](https://github.com/vasu292929/Business-Insights-360/blob/main/Info.png?raw=true)
+
+## Finance View
+
+![Finance View](https://github.com/vasu292929/Business-Insights-360/blob/main/Finance.png?raw=true)
+
+## Sales View
+
+![Sales View](https://github.com/vasu292929/Business-Insights-360/blob/main/Sales.png?raw=true)
+
+## Marketing View
+
+![Marketing View](https://github.com/vasu292929/Business-Insights-360/blob/main/Marketing.png?raw=true)
+
+## Supply chain View
+
+![Supply chain View](https://github.com/user-attachments/assets/fa01da64-2526-43cc-a0a7-1037df14fe2a)
+
+## Executive View
+
+![Executive View](https://github.com/vasu292929/Business-Insights-360/blob/main/Executive.png?raw=true)
+
+## Project Outcome
+
+By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
+
+
 
 
 
