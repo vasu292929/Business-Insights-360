@@ -50,9 +50,9 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
 
-![Snowfall data modeling method](https://github.com/vasu292929/Business-Insights-360/blob/main/Snowfall%20data%20modeling%20method%201.png?raw=true)
+![Snowfall data modeling method](https://github.com/vasu292929/Business-Insights-360/blob/main/resources/Snowfall%20data%20modeling%20method%201.png?raw=true)
 
-![Snowfall data modeling method](https://github.com/vasu292929/Business-Insights-360/blob/main/Snowfall%20data%20modeling%20method%202.png?raw=true)
+![Snowfall data modeling method](https://github.com/vasu292929/Business-Insights-360/blob/main/resources/Snowfall%20data%20modeling%20method%202.png?raw=true)
 
 ## Home view
 
@@ -67,31 +67,31 @@ In Home view, all the views button will be available. User will land on specific
 - Products
 - Support
 
-![Home View](https://github.com/vasu292929/Business-Insights-360/blob/main/Home.png?raw=true)
+![Home View](https://github.com/vasu292929/Business-Insights-360/blob/main/resources/Home.png?raw=true)
 
 ## Info Page
 
-![Info Page](https://github.com/vasu292929/Business-Insights-360/blob/main/Info.png?raw=true)
+![Info Page](https://github.com/vasu292929/Business-Insights-360/blob/main/resources/Info.png?raw=true)
 
 ## Finance View
 
-![Finance View](https://github.com/vasu292929/Business-Insights-360/blob/main/Finance.png?raw=true)
+![Finance View](https://github.com/vasu292929/Business-Insights-360/blob/main/resources/Finance.png?raw=true)
 
 ## Sales View
 
-![Sales View](https://github.com/vasu292929/Business-Insights-360/blob/main/Sales.png?raw=true)
+![Sales View](https://github.com/vasu292929/Business-Insights-360/blob/main/resources/Sales.png?raw=true)
 
 ## Marketing View
 
-![Marketing View](https://github.com/vasu292929/Business-Insights-360/blob/main/Marketing.png?raw=true)
+![Marketing View](https://github.com/vasu292929/Business-Insights-360/blob/main/resources/Marketing.png?raw=true)
 
 ## Supply chain View
 
-![Supply chain View](https://github.com/user-attachments/assets/fa01da64-2526-43cc-a0a7-1037df14fe2a)
+![Supply chain View](https://github.com/vasu292929/Business-Insights-360/blob/main/resources/Supply%20Chain.png?raw=true)
 
 ## Executive View
 
-![Executive View](https://github.com/vasu292929/Business-Insights-360/blob/main/Executive.png?raw=true)
+![Executive View](https://github.com/vasu292929/Business-Insights-360/blob/main/resources/Executive.png?raw=true)
 
 ## Project Outcome
 
