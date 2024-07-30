@@ -49,3 +49,8 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 - Poor data modeling affects the over all performance of the report.
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
+- ![![Project Logo]()
+![Dashboard Screenshot]()
+]()
+![Dashboard Screenshot]()
+
